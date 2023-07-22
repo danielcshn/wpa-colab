@@ -1,6 +1,10 @@
 # WPA Colab
 Google Colab for cracking WPA hashes.
 
+| :warning: WARNING          |
+|:---------------------------|
+| This project is limited by Google Colab. It's possible that your account may be affected by usage. Please verify the [usage limits](https://research.google.com/colaboratory/faq.html#limitations-and-restrictions) of the platform. If you are really sure of using it, you can open the project at your own risk. |
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielcshn/wpa-colab/blob/master/WPACOLAB.ipynb)
 
 ## Disclaimer
